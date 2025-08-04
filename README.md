@@ -1,8 +1,6 @@
 # Gemini CLI Dev Template
-
 Get a ready to roll development environment for Gemini CLI.
-https://github.com/davideast/dataprompt/tree/main/template
-https://github.com/davideast/gemini-cli-dev/tree/main
+
 <a href="https://studio.firebase.google.com/new?template=https://github.com/davideast/gemini-cli-dev/tree/main">
   <picture>
     <source
