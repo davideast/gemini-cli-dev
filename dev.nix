@@ -2,7 +2,6 @@
   channel = "stable-24.05";
   packages = [
     pkgs.nodejs_22
-    pkgs.git
   ];
   services = {
     docker.enable = true;

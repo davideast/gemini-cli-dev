@@ -18,7 +18,7 @@ idx-template \
 
     # Set up dev.nix for the workspace
     mkdir "$out/.idx"
-    cp ${./.idx/dev.nix} "$out/.idx/dev.nix"
+    cp ${./dev.nix} "$out/.idx/dev.nix"
 
     # Set some permissions
     chmod -R +w "$out"

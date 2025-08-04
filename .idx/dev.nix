@@ -6,7 +6,6 @@
   # Use https://search.nixos.org/packages to find packages
   packages = [
     pkgs.nodejs_22
-    pkgs.git
   ];
   env = {};
   idx = {
