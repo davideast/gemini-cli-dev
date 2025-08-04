@@ -1,0 +1,6 @@
+{
+  "name": "Gemini CLI Dev",
+  "description": "Sets up a development workspace to contribute to the Gemini CLI repo.",
+  "icon": "https://www.gstatic.com/images/branding/productlogos/studio/v1/192px.svg",
+  "params": []
+}
